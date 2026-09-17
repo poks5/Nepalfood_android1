@@ -1,0 +1,11 @@
+<resources>
+    <color name="primary">#059669</color>
+    <color name="primary_dark">#047857</color>
+    <color name="primary_container">#D1FAE5</color>
+    <color name="on_primary_container">#064E3B</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="background">#F9FAFB</color>
+    <color name="on_surface">#111827</color>
+    <color name="secondary">#0D9488</color>
+    <color name="amber_accent">#D97706</color>
+</resources>

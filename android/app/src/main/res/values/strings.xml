@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Khana Sathi</string>
+    <string name="app_name_ne">खाना साथी</string>
+    <string name="app_subtitle">Nepal Food &amp; Nutrition Database</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_foods">Foods</string>
+    <string name="tab_search">Search</string>
+    <string name="tab_favorites">Favorites</string>
+    <string name="tab_calculator">Meal Calculator</string>
+    <string name="tab_more">More</string>
+    <string name="edition_all">All Editions</string>
+    <string name="edition_2024">2024 NARC</string>
+    <string name="edition_2012">2012 DFTQC</string>
+</resources>

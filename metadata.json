@@ -1,0 +1,8 @@
+{
+  "name": "android Nepal food database 2024 2012",
+  "description": "KHANA SATHI - Nepal Food \u0026 Nutrition Database based on NARC 2024 Food Composition Data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
